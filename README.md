@@ -1,1 +1,1 @@
-# Zepto-SQL-data-analysis-project
+# Zepto-E-commerce SQL data analyst project
